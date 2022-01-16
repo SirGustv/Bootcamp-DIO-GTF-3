@@ -1,2 +1,3 @@
-# bootcamp-DIO-GTF-3
-Repositório dedicado a atividades do bootcamp da GFT na Digital Innovation One
+## BEM VINDO AO MEU REPOSITÓRIO !!!
+
+Repositório exclusivo para demonstrar os meus progressos e atividades relacionadas ao bootcamp **GFT Start #3 .NET** proporcionado pela Digital Innovation One (DIO.me).
