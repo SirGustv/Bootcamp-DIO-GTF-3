@@ -4,8 +4,18 @@ Repositório exclusivo para demonstrar os meus progressos e atividades relaciona
 
 ### Atividades
 -[x] Criar o primeiro repositório;
+
+
 -[x] Livro de Receitas;
--[] Desafios iniciais - GFT Start #3 dotNET;
--[] Abstraindo um jogo de RPG usando orientação a objeto com C#;
--[] Crianto um APP simples de cadastro de séries em dotNET;
--[] Desafios básicos - GFT Start #3 dotNET.
+
+
+-[ ] Desafios iniciais - GFT Start #3 dotNET;
+
+
+-[ ] Abstraindo um jogo de RPG usando orientação a objeto com C#;
+
+
+-[ ] Crianto um APP simples de cadastro de séries em dotNET;
+
+
+-[ ] Desafios básicos - GFT Start #3 dotNET.
