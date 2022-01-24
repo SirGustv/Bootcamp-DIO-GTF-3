@@ -8,8 +8,7 @@ Relação de atividades propostas dentro do conteúdo previsto na  plataforma de
 
 |  Atividades                               | Status       |
 | :--------------------------------------- | ------------ |
-| - Criar o primeiro repositório           | Concluído    |
-| - Desafios iniciais - GFT Start #3 dotNET | Em Andamento |
+| - Desafios iniciais - GFT Start #3 dotNET | Concluído |
 | - Abstraindo um jogo de RPG usando orientação a objeto com C# | Em Andamento |
 | - Crianto um APP simples de cadastro de séries em dotNET | Em Andamento |
 | - Desafios básicos - GFT Start #3 dotNET | Em Andamento |
