@@ -12,7 +12,7 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Desafios iniciais - GFT Start #3 dotNET* | Concluído    |
 | - *Abstraindo um jogo de RPG usando orientação a objeto com C#* | Em Andamento |
 | - *Criando um APP simples de cadastro de séries em dotNET* | Em Andamento |
-| - *Desafios básicos - GFT Start #3 dotNET* | Em Andamento |
+| - *Desafios básicos - GFT Start #3 dotNET* | Concluído |
 
 ### MATÉRIAS
 
@@ -28,7 +28,7 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *IDE instalação e configuração (VSCode).* | Concluído    |
 | - *Primeiros passos com .NET.*           | Concluído    |
 | - *Trabalhando com tipos de referência e valor em C#.* | Concluído    |
-| - *Controlando o fluxo de execução.*     | Em Andamento |
+| - *Controlando o fluxo de execução.*     | Concluído |
 | - *Introdução ao HTTP/HTTPS.*            | Em Andamento |
 | - *Trabalhando com arquivos e streams em C#.* | Em Andamento |
 | - *Construtores, propriedades, delegates e eventos em .NET.* | Em Andamento |
