@@ -29,7 +29,7 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Primeiros passos com .NET.*           | Concluído    |
 | - *Trabalhando com tipos de referência e valor em C#.* | Concluído    |
 | - *Controlando o fluxo de execução.*     | Concluído |
-| - *Introdução ao HTTP/HTTPS.*            | Em Andamento |
+| - *Introdução ao HTTP/HTTPS.*            | Concluído |
 | - *Trabalhando com arquivos e streams em C#.* | Em Andamento |
 | - *Construtores, propriedades, delegates e eventos em .NET.* | Em Andamento |
 | - *Programando com orienteção a objeto com C#.* | Em Andamento |
