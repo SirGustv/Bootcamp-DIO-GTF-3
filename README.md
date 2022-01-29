@@ -30,8 +30,8 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Trabalhando com tipos de referência e valor em C#.* | Concluído    |
 | - *Controlando o fluxo de execução.*     | Concluído |
 | - *Introdução ao HTTP/HTTPS.*            | Concluído |
-| - *Trabalhando com arquivos e streams em C#.* | Em Andamento |
-| - *Construtores, propriedades, delegates e eventos em .NET.* | Em Andamento |
+| - *Trabalhando com arquivos e streams em C#.* | Concluído |
+| - *Construtores, propriedades, delegates e eventos em .NET.* | Concluído |
 | - *Programando com orienteção a objeto com C#.* | Em Andamento |
 | - *Fundamentos de coleção e LINQ com .NET.* | Em Andamento |
 | - *Tratamento de erro em C# com exeptions.* | Em Andamento |
