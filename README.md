@@ -32,9 +32,9 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Introdução ao HTTP/HTTPS.*            | Concluído |
 | - *Trabalhando com arquivos e streams em C#.* | Concluído |
 | - *Construtores, propriedades, delegates e eventos em .NET.* | Concluído |
-| - *Programando com orienteção a objeto com C#.* | Em Andamento |
-| - *Fundamentos de coleção e LINQ com .NET.* | Em Andamento |
-| - *Tratamento de erro em C# com exeptions.* | Em Andamento |
+| - *Programando com orienteção a objeto com C#.* | Concluído |
+| - *Fundamentos de coleção e LINQ com .NET.* | Concluído |
+| - *Tratamento de erro em C# com exceptions.* | Concluído |
 | - *Desenvolvimento de aplicações com .NET.* | Em Andamento |
 | - *Configuração da arquitetura back-end com >NET Core.* | Em Andamento |
 
