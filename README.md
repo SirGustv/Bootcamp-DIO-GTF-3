@@ -10,8 +10,8 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | :--------------------------------------- | :----------- |
 | - *Criando seu primeiro repositório no GitHub para compartilhar seu progresso.* | Concluído    |
 | - *Desafios iniciais - GFT Start #3 dotNET* | Concluído    |
-| - *Abstraindo um jogo de RPG usando orientação a objeto com C#* | Concluído |
-| - *Criando um APP simples de cadastro de séries em dotNET* | Em Andamento |
+| - *Abstraindo um jogo de RPG usando orientação a objeto com C#* | [Concluído](https://github.com/SirGustv/RPG_com_Orientacao_a_Objetos_Csharp.git) |
+| - *Criando um APP simples de cadastro de séries em dotNET* | [Concluído](https://github.com/SirGustv/App_Cadastro_de_Serie.git) |
 | - *Desafios básicos - GFT Start #3 dotNET* | Concluído |
 
 ### MATÉRIAS
@@ -35,8 +35,8 @@ Repositório exclusivo para demonstrar meus progressos e atividades relacionadas
 | - *Programando com orienteção a objeto com C#.* | Concluído |
 | - *Fundamentos de coleção e LINQ com .NET.* | Concluído |
 | - *Tratamento de erro em C# com exceptions.* | Concluído |
-| - *Desenvolvimento de aplicações com .NET.* | Em Andamento |
-| - *Configuração da arquitetura back-end com >NET Core.* | Em Andamento |
+| - *Desenvolvimento de aplicações com .NET.* | Concluído |
+| - *Configuração da arquitetura back-end com .NET Core.* | Concluído |
 
 
 
